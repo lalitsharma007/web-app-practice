@@ -1,0 +1,21 @@
+body{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url("gym.jpg");
+    
+   
+    
+}
+.left{
+    border: 2px solid rgb(240, 41, 41);
+
+}
+.mid{
+    border: 2px solid green;
+
+}
+.right{
+    border: 2px solid yellow;
+
+}
